@@ -1,6 +1,6 @@
 # Time Series Association Analysis
 
-This project investigates associations between different time series using exploratory analysis, preprocessing techniques, correlation analysis, lag analysis, and visualization.
+This project investigates associations between different time series using exploratory analysis, preprocessing techniques, correlation analysis, and visualization.
 
 ## Objectives
 
