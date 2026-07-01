@@ -1,0 +1,23 @@
+# R files
+.Rhistory
+.RData
+.Ruserdata
+
+# RStudio files
+.Rproj.user/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Raw and processed data (optional)
+data/raw/*
+data/processed/*
+
+# Keep empty directories in Git
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# Large files
+*.rds
+*.RData
